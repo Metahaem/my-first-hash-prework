@@ -8,7 +8,7 @@ end
 
 def shipping_manifest
  the_manifest = {
-   
+   "whale bone corsets" => 25
  }
 end
 
